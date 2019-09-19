@@ -30,7 +30,7 @@ $('#nav').affix({
 	//var windowBottom = $(window).height();
 	var index=0;
 	$(document).scroll(function(){
-		var top = $('#skills').height()-$(window).scrollTop();
+		var top = $('#skills').height()/4-$(window).scrollTop();
 		if(top<-500){
 			if(index==0){	
 			
