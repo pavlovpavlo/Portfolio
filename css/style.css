@@ -193,10 +193,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 }
 #about img {
 	border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    display: inline-block;
-    border: 1px solid;
+    	width: 150px;
+    	height: 150px;
+    	display: inline-block;
+    	border: 1px solid;
 }
 #about p {
 	margin-top: 20px;
